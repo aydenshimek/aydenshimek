@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aydenshimek
 - 👀 I’m interested in working on personal projects
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
+- 😁 I have an intermediate understanding of Java, Python, and C
 - 📫 Email: aydenshimek@gmail.com
 - 😄 Pronouns: He/Him
 
